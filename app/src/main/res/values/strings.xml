@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GetHelp</string>
+    <string name="app_tag_line">At your Service</string>
+    <string name="Do_not_have_an_Account">Not yet connected? Get a Japhhi</string>
+    <string name="signup">SignUp</string>
+    <string name="GoText">Go</string>
+    <string name="ForgotPasswordText">Forgot Password ?</string>
+    <string name="username">Username</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="AlreadyAccount">Already Connected?</string>
+    <string name="IHaveAcceptedText">I have accepted</string>
+    <string name="TandCText"><![CDATA[Terms & Conditions.]]></string>
+    <string name="forgot_password_email">Enter Registered E-mail Id</string>
+    <string name="ForgotPasswordTitle">Forgot Password</string>
+    <string name="LoginTitle">Login</string>
+    <string name="SignUpTitle">SignUp</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
