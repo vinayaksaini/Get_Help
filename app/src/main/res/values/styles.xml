@@ -32,9 +32,10 @@
         <item name="android:paddingLeft">8dp</item>
         <item name="android:paddingRight">20dp</item>
         <item name="android:paddingTop">5dp</item>
+        <item name="android:textColor">#ffffff</item>
         <item name="android:layout_marginTop">5dp</item>
         <item name="android:paddingBottom">5dp</item>
-        <item name="android:popupBackground">#e61f62</item>
+        <item name="android:popupBackground">#efe61f62</item>
     </style>
 
 </resources>
