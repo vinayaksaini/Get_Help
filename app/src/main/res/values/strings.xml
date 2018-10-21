@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">GetHelp</string>
+    <string name="spinner2Prompt">Select Police Station</string>
+    <string name="action_settings">settings</string>
     <string name="app_tag_line">At your Service</string>
     <string name="Do_not_have_an_Account">Not yet connected? Get a Japhhi</string>
     <string name="signup">SignUp</string>
